@@ -1,0 +1,22 @@
+{
+  "name": "hack-n-slack",
+  "version": "1.0.0",
+  "description": "Discord dungeon crawling experience",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
